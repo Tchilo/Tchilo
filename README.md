@@ -17,3 +17,9 @@
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 <img src="https://img.icons8.com/nolan/50/react-native.png"/>
 ![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
+
+
+### GitHub Status.  
+
+[![Tchilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchilo&show_icons=true&theme=dracula)](https://github.com/Tchilo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tchilo&theme=dracula)](https://github.com/Tchilo/github-readme-stats)
