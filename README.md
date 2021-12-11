@@ -21,5 +21,3 @@
 
 ### GitHub Status.  
 
-[![Tchilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchilo&show_icons=true&theme=dracula)](https://github.com/Tchilo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tchilo&theme=dracula)](https://github.com/Tchilo/github-readme-stats)
