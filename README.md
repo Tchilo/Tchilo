@@ -22,5 +22,5 @@
 ### GitHub Status.  
 
 [![Tchilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchilo&show_icons=true&theme=dracula)](https://github.com/Tchilo/github-readme-stats)
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tchilo&theme=radical" alt="tedlivist" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tchilo&theme=dracula)](https://github.com/Tchilo/github-readme-stats)
