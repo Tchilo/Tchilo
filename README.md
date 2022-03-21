@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... JavaScript
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ... Ruby on Rails, Design
 - 👯 I’m looking to collaborate on ...small projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...HTML,CSS,JavaScript
-- 📫 How to reach me: [Twiter](shykid@twiter.com)...
+- 💬 Ask me about ...HTML,CSS,JavaScript,React
+- 📫 How to reach me: [Twiter](https://twitter.com/Tchiloross)...
 - ⚡ Fun fact: ... I am a Language freak
 
 
