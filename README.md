@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... Design
 - 👯 I’m looking to collaborate on ...small/big projects
-- 💬 Ask me about ...HTML,CSS,JavaScript,React, Ruby, Ruby on rails
 - 📫 How to reach me: [Twiter](https://twitter.com/Tchiloross)...
-- ⚡ Fun fact: ... I am a Language freak
+
 
 
 ### Languages & Frameworks. 🚧 
