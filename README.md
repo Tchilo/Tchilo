@@ -15,6 +15,6 @@
 ![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
 ### GitHub Status.  
 
-<!--[![Tchilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchilo&show_icons=true&theme=dracula)]<!--(https://github.com/Tchilo/github-readme-stats)
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tchilo&theme=radical" alt="tedlivist" /></p>-->
+[![Tchilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchilo&show_icons=true&theme=dracula)](https://github.com/Tchilo/github-readme-stats)
+<!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tchilo&theme=radical" alt="tedlivist" /></p>-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tchilo&theme=dracula)](https://github.com/Tchilo/github-readme-stats) -->
